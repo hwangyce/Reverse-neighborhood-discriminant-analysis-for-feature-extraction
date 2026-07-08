@@ -1,3 +1,4 @@
 This repository contains the official Python implementation of Reverse Neighborhood Discriminant Analysis and its two-dimensional extension 2DRNDA.  
 While Linear Discriminant Analysis (LDA) and its conventional graph-based variants are widely adopted for dimensionality reduction, they often suffer from limited projection dimensions or a lack of robustness due to the unidirectional connectivity of K-Nearest-Neighbor (KNN) mechanisms on uneven data distributions.  
 To overcome these boundaries, RNDA introduces an advanced topological perspective driven by Reverse Nearest Neighbors (RNN). By adaptively evaluating the in-degree influence of each sample and blending multi-granularity structural components, RNDA achieves robust subspace discovery, noise suppression, and enhanced manifold representation.
+Submitted 19/01/26, major revision 02/06/26, resubmitted 08/06/26, minor revision 22/06/26, resubmitted 23/06/26, accepted 24/06/26. 
